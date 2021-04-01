@@ -2,7 +2,7 @@
 This project contains code to my personal porfolio as a software developer. I have added it to GitHub so that prospective employers, clients and colleagues can have a look at it.
 
 ## Author
-My name is Rahab Wambui Ngaruiya and I am software developer. To reach me you can use the below contacts:
+My name is Rahab Wambui Ngaruiya and I am a software developer. To reach me you can use the below contacts:
 
 **Email address**: sarahngaruiya2000@gmail.com
 
@@ -19,11 +19,10 @@ git clone https://github.com/wambuirahab/porfolio.git
 ```
 cd porfolio
 ```
-3. If you are using Linux install vs code
+3. If you are using Linux install vs code with the below command or follow instructions found [here](https://code.visualstudio.com/docs/setup/linux)
 ```
 sudo snap install --classic code # or code-insiders
-```
-Or follow instructions found [here](https://code.visualstudio.com/docs/setup/linux) 
+``` 
 
 4. Open vs code with the below command
 ```
