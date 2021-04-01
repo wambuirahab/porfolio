@@ -1,6 +1,9 @@
 # Porfolio
 This project contains code to my personal porfolio as a software developer. I have added it to GitHub so that prospective employers, clients and colleagues can have a look at it.
 
+<!-- To view the live version of this project you can follow the link below: -->
+
+
 ## Author
 My name is Rahab Wambui Ngaruiya and I am a software developer. To reach me you can use the below contacts:
 
